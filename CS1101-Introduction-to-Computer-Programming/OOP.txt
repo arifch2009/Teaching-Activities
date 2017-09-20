@@ -1,0 +1,18 @@
+
+
+What is Object Oriented Programming & Characteristics of OOP?
+http://www.c-sharpcorner.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/
+
+http://www.careerride.com/oops-characteristics.aspx
+
+C++ - Object & class & Example
+
+http://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm
+
+Difference between Procedural Language and Object Oriented Programming
+
+http://freefeast.info/general-it-articles/difference-between-procedure-oriented-programming-and-object-oriented-programming-procedure-oriented-programming-vs-object-oriented-programming/
+
+Difference between C and C++
+
+http://www.durofy.com/10-major-differences-between-c-and-c/
